@@ -3,6 +3,10 @@
 Google スプレッドシートの楽曲データを元に、WIKIWIKI ページの自動生成・更新・表組み出力を行う Discord Botです。
 songupdate,tablegenerate,maketable,newsongはParadigm:Reboot wiki専用です。
 自身でも使用したい場合色々改造してください
+基本的にmain.jsで起動して、commandsフォルダ内にコマンドを処理するファイルが入ってます。
+commandsフォルダ内に同じように新しいコマンドファイル作って入れて再起動したらdiscord上で使えます
+.envとapi-key.jsonが大事なやつ、他は勝手に作られるやつです。
+
 
 ---
 
