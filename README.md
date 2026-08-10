@@ -1,4 +1,4 @@
-# Lab Operation Gadget (LOG#5110)
+# Lab Operation Gadget
 
 Google スプレッドシートの楽曲データを元に、WIKIWIKI ページの自動生成・更新・表組み出力を行う Discord Botです。
 songupdate,tablegenerate,maketable,newsongはParadigm:Reboot wiki専用です。
